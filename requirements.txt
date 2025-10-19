@@ -1,3 +1,5 @@
 beautifulsoup
 requests
 json
+re
+pypdf
