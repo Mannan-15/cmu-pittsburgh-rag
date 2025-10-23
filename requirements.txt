@@ -7,3 +7,6 @@ langchain
 langchain-community
 chromadb
 sentence-transformers
+ollama
+tf-keras
+huggingface_hub
