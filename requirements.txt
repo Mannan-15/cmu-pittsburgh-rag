@@ -4,3 +4,6 @@ json
 re
 pypdf
 langchain
+langchain-community
+chromadb
+sentence-transformers
