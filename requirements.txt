@@ -10,3 +10,5 @@ sentence-transformers
 ollama
 tf-keras
 huggingface_hub
+tqdm
+evaluate

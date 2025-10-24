@@ -19,7 +19,7 @@ vector_store = Chroma(
 retriever = vector_store.as_retriever(search_kwargs = {"k" : 3})
 print("✅ Retriever loaded.")
 
-query = "What happened in Pittsburgh in 1845?"
+query = input("User : ")
 
 retrieved_docs = retriever.invoke(query)
 
